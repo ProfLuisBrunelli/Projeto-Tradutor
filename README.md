@@ -1,1 +1,4 @@
-# Projeto-Tradutor
+## Projeto-Tradutor
+
+Professor Luis Henrique Brunelli 
+
